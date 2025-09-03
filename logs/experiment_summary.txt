@@ -1,0 +1,25 @@
+=== RÉSUMÉ DES EXPÉRIENCES ===
+
+PERFORMANCES DES MODÈLES:
+  centralized: Loss=4.4797, Accuracy=0.5841
+  individual: Loss=4.6199, Accuracy=0.4991
+  ensemble: Loss=1.9626, Accuracy=0.5766
+  cyclic: Loss=2.6749, Accuracy=0.5721
+  federated: Loss=3.0484, Accuracy=0.6049
+
+RÉSULTATS D'ATTAQUE:
+  centralized_original: 0.5953
+
+MÉTRIQUES DE CONFIDENTIALITÉ:
+  average_attack_accuracy: 0.5953
+  max_attack_accuracy: 0.5953
+  min_attack_accuracy: 0.5953
+  average_attack_advantage: 0.0953
+  max_attack_advantage: 0.0953
+  average_privacy_loss: 0.0953
+  max_privacy_loss: 0.0953
+
+CONCLUSIONS:
+- Comparaison des approches d'apprentissage
+- Analyse des vulnérabilités de confidentialité
+- Recommandations pour améliorer la confidentialité

@@ -1,0 +1,5 @@
+Membership Inference Attack Results
+Attack Type: original
+Target Model: centralized
+Overall Accuracy: 0.5953
+Class Precisions: [np.float64(0.5408637873754153), np.float64(0.5732876712328767), np.float64(0.619486504279131), np.float64(0.7355316285329744), np.float64(0.6556945358788677), np.float64(0.655241935483871), np.float64(0.5839368005266623), np.float64(0.5437415881561238), np.float64(0.5335526315789474), np.float64(0.5120160213618158)]
